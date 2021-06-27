@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/listboxes/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/listboxes/static/js/main.efaa4d79.chunk.js",
+    "main.js.map": "/listboxes/static/js/main.efaa4d79.chunk.js.map",
+    "runtime-main.js": "/listboxes/static/js/runtime-main.dae75a40.js",
+    "runtime-main.js.map": "/listboxes/static/js/runtime-main.dae75a40.js.map",
+    "static/js/2.da544b7a.chunk.js": "/listboxes/static/js/2.da544b7a.chunk.js",
+    "static/js/2.da544b7a.chunk.js.map": "/listboxes/static/js/2.da544b7a.chunk.js.map",
+    "static/js/3.815f004b.chunk.js": "/listboxes/static/js/3.815f004b.chunk.js",
+    "static/js/3.815f004b.chunk.js.map": "/listboxes/static/js/3.815f004b.chunk.js.map",
+    "index.html": "/listboxes/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/listboxes/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.da544b7a.chunk.js.LICENSE.txt": "/listboxes/static/js/2.da544b7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "listboxes/static/js/runtime-main.dae75a40.js",
+    "listboxes/static/js/2.da544b7a.chunk.js",
+    "listboxes/static/css/main.9d5b29c0.chunk.css",
+    "listboxes/static/js/main.efaa4d79.chunk.js"
+  ]
+}
